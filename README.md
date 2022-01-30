@@ -19,7 +19,7 @@ Seja bem-vindo ao meu profile!</h1>*
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg">
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg">
-  <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://productplacementblog.com/wp-content/uploads/2021/12/Dell-PC-Monitor-Used-by-Keanu-Reeves-as-Neo-in-The-Matrix-Resurrections-1-780x332.jpg">
+  <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://kanto.legiaodosherois.com.br/w760-h398-gnw-cfill-q80/wp-content/uploads/2020/01/legiao_dm49DMgQte0uzlEHPXNaJn1cIivBwC6WZVLSs5_Gxy.jpg.jpeg">
 </div>
 
 <!--
